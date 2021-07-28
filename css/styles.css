@@ -128,6 +128,13 @@ body {
   background-color: #FFF;
 }
 
+.booking-heading {
+  padding: 3% 0;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #810000;
+}
+
 .booking-message {
   padding: 2% 0;
 }
@@ -139,7 +146,7 @@ body {
 }
 
 .price-heading {
-  margin-top: 2%;
+  margin-top: 3%;
   margin-bottom: 2%;
   font-weight: 500;
   font-size: 2rem;
