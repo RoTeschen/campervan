@@ -66,18 +66,18 @@ body {
 }
 
 .images-van {
-  width: 25%;
+  width: 35%;
 }
 
 @media (max-width: 1000px) {
   .images-van {
-    width: 60%;
+    width: 70%;
   }
 }
 
 @media (max-width: 600px) {
   .images-van {
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -191,6 +191,16 @@ body {
 .card-body-color {
   /* background-color: #FFFBDF; */
   background-color: #fff;
+}
+
+/* guidelines */
+#guidelines .container-fluid {
+  background-color: #F7F3E9;
+}
+
+/* Take With */
+#takeWith .container-fluid {
+  background-color: #FFF;
 }
 
 /* Footer */
