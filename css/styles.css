@@ -256,3 +256,56 @@ body {
 #data-pro-body .container-fluid {
   padding: 3% 10%;
 }
+
+/* Geschenk page */
+
+.bodygeschenk {
+  margin: 5%;
+  background-color: #F4E9E1;
+}
+
+.container-fluid {
+  background-color: #F4E9E1;
+}
+
+.ptext {
+  color: #9B0000;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.box1 {
+  background-color: #D2EEED;
+  border: 2px;
+  margin: 1rem;
+}
+
+.box2 {
+  background-color: #D2EEED;
+  border: 2px;
+  margin: 1rem;
+}
+
+.box3 {
+  background-color: #D2EEED;
+  border: 2px;
+  margin: 1rem;
+}
+
+.pbox1 {
+  padding: 2rem;
+  text-decoration: underline;
+  color: #0A2342;
+}
+
+.pbox2 {
+  padding: 2rem;
+  text-decoration: underline;
+  color: #0A2342;
+}
+
+.pbox3 {
+  padding: 2rem;
+  text-decoration: underline;
+  color: #0A2342;
+}
